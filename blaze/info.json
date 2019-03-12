@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "KENSEI&SKYLARR",
+    "INSTALL_MSG" : "Success! Installed blazibot!",
+    "NAME" : "blzi",
+    "SHORT" : "This is the core of the beast itself",
+    "DESCRIPTION" : "Fuck fuck fuck, mother mother fuck fuck",
+    "TAGS" : ["pokebot", "pokemonz", "poke"],
+    "REQUIREMENTS" : ["tabulate", "Pillow"],
+    "HIDDEN" : false
+}
